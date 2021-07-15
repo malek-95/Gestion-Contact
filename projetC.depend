@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1620837693 source:c:\users\darty\onedrive\bureau\projetc\projetc\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	"fonctions.h"
+	"structure.h"
+
+1620834762 c:\users\darty\onedrive\bureau\projetc\projetc\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"fonctions.h"
+	"structure.h"
+
+1620822002 c:\users\darty\onedrive\bureau\projetc\projetc\structure.h
+
+1620837694 source:d:\projetc\projetc\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	"fonctions.h"
+	"structure.h"
+
+1620834764 d:\projetc\projetc\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"fonctions.h"
+	"structure.h"
+
+1620822004 d:\projetc\projetc\structure.h
+
+1620816094 source:f:\projetc\projetc\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	"fonctions.h"
+	"structure.h"
+
+1620813164 f:\projetc\projetc\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"fonctions.h"
+	"structure.h"
+
+1620800404 f:\projetc\projetc\structure.h
+
+1621029156 source:c:\users\nejib\desktop\projetc\projetc\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	"fonctions.h"
+	"structure.h"
+
+1620813164 c:\users\nejib\desktop\projetc\projetc\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"fonctions.h"
+	"structure.h"
+
+1620800404 c:\users\nejib\desktop\projetc\projetc\structure.h
+
+1622330466 source:c:\users\monia\desktop\nouveau dossier\projetc\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	"fonctions.h"
+	"structure.h"
+
+1622334002 c:\users\monia\desktop\nouveau dossier\projetc\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"fonctions.h"
+	"structure.h"
+
+1622139651 c:\users\monia\desktop\nouveau dossier\projetc\structure.h
+
+1622469322 source:c:\users\monia\desktop\gestion contact\projetc\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	"fonctions.h"
+	"structure.h"
+
+1622469133 c:\users\monia\desktop\gestion contact\projetc\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"fonctions.h"
+	"structure.h"
+
+1622139651 c:\users\monia\desktop\gestion contact\projetc\structure.h
+
